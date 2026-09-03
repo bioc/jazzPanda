@@ -51,3 +51,20 @@ In order to view the vignette for jazzPanda use the following command:
 ``` r
 browseVignettes("jazzPanda")
 ```
+
+## Example analyses
+
+Worked analyses applying jazzPanda to a range of imaging-based spatial
+transcriptomics datasets (10x Xenium, NanoString CosMx and Vizgen MERSCOPE)
+are available as a `workflowr` website:
+
+- Analysis website: <https://phipsonlab.github.io/jazzPanda_workflowr/>
+
+## Citation
+ 
+If you use jazzPanda in your research, please cite our preprint:
+ 
+> Jin X, Putri GH, Cheng J, Asselin-Labat M-L, Smyth GK, Phipson B (2026).
+> jazzPanda: spatially aware marker gene detection for imaging-based 
+> spatial transcriptomics. *bioRxiv*.
+> doi: [10.64898/2026.02.13.705867](https://doi.org/10.64898/2026.02.13.705867)
